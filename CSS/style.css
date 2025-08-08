@@ -276,6 +276,9 @@ footer .content .links a:hover{
 /* media queries */
 
   @media(max-width:760px){
+    header{
+        backdrop-filter: blur(20px);
+    }
     .nav-links{
       display: none;
       position: absolute;
