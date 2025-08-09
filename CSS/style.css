@@ -276,10 +276,7 @@ footer .content .links a:hover{
 /* media queries */
 
 /* tablet size */
-     @media(max-width:595px) {
-    header{
-        backdrop-filter: blur(20px);
-    }
+     @media(max-width:599px) {
     .nav-links{
       display: none;
       position: absolute;
@@ -318,5 +315,5 @@ footer {
   font-size: 0.7rem;
 }   
   }
+  
 
- 
